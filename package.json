@@ -1,0 +1,22 @@
+{
+  "name": "1984",
+  "version": "0.0.1",
+  "description": "Big brother is watching you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarer/1984.git"
+  },
+  "keywords": [
+    "1984"
+  ],
+  "author": "Oskar Eriksson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oskarer/1984/issues"
+  },
+  "homepage": "https://github.com/oskarer/1984#readme"
+}
