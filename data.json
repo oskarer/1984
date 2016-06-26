@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "hello",
+      "number": 42
+    },
+    {
+      "name": "yo",
+      "number": 1337
+    }
+  ]
+}
