@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+.title {
+  font-size: 90pt;
+  font-weight: 200;
+  margin: 0;
+}

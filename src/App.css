@@ -1,0 +1,7 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  padding: 20pt;
+}
